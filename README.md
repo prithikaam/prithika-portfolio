@@ -1,2 +1,2 @@
 # prithika-portfolio
-my web developer portfolio
+my web developement skill portfolio
